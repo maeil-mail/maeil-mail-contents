@@ -96,7 +96,7 @@
 - [npm install과 npm ci의 차이점에 대해 설명해주세요.](contents/fe-93.md)
 - [BFF(Backend For Frontend)란 무엇인가요?](contents/fe-94.md)
 - [타입스크립트의 infer 키워드에 대해서 설명해주세요.](contents/fe-95.md)
-- [<a> 태그를 이용해 외부 페이지를 열 때 보안상 고려해야 할 점은 무엇인가요?](contents/fe-96.md)
+- [\<a> 태그를 이용해 외부 페이지를 열 때 보안상 고려해야 할 점은 무엇인가요?](contents/fe-96.md)
 - [테스트하기 쉬운 코드의 조건들에 대해 설명해주세요.](contents/fe-97.md)
 - [Cache-Control 헤더에 대해 설명해주세요.](contents/fe-98.md)
 - [웹뷰(WebView)란 무엇인가요?](contents/fe-99.md)
